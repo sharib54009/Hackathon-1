@@ -10,10 +10,6 @@ EcoLens is a hackathon project focused on helping users make better everyday dec
 
 The project provides simple guidance on how to use, reuse, and dispose of common products in a more responsible way.
 
-## Why This Project
-
-Many environmental problems are caused by small daily habits.  
-EcoLens tries to improve awareness by making these decisions clearer and easier to follow.
 
 
 
