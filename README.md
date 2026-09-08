@@ -15,11 +15,7 @@ The project provides simple guidance on how to use, reuse, and dispose of common
 Many environmental problems are caused by small daily habits.  
 EcoLens tries to improve awareness by making these decisions clearer and easier to follow.
 
-## How It Works
 
-- The user enters a product name  
-- The system analyzes the product lifecycle  
-- Practical suggestions are shown for usage, reuse, and disposal  
 
 ## Author
 
