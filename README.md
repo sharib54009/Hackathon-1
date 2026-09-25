@@ -15,10 +15,6 @@ The project provides simple guidance on how to use, reuse, and dispose of common
 Many environmental problems are caused by small daily habits.  
 EcoLens tries to improve awareness by making these decisions clearer and easier to follow.
 
-
-
-
-
 ## Author
 
 Sharib
